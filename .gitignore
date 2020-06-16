@@ -1,7 +1,6 @@
 #  ignore all
-*
+*/
 # version .gitignore
 !.gitignore
 # version script
-!*.ipynb
-!*.yml
+!00_Scripts
