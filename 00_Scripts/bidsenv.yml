@@ -5,13 +5,13 @@ channels:
   - r
   - defaults
 dependencies:
-  - appnope=0.1.0
+  #- appnope=0.1.0
   - attrs=19.3.0
   - backcall=0.1.0
   - bleach=3.1.5
   - ca-certificates=2020.4.5.2
   - certifi=2020.4.5.2
-  - dbus=1.13.6
+  #- dbus=1.13.6
   - decorator=4.4.2
   - defusedxml=0.6.0
   - entrypoints=0.3
@@ -39,10 +39,10 @@ dependencies:
   - libblas=3.8.0
   - libcblas=3.8.0
   - libclang=9.0.1
-  - libcxx=10.0.0
-  - libedit=3.1.20191231
+  #- libcxx=10.0.0
+  #- libedit=3.1.20191231
   - libffi=3.2.1
-  - libgfortran=4.0.0
+  #- libgfortran=4.0.0
   - libiconv=1.15
   - liblapack=3.8.0
   - libllvm9=9.0.1
@@ -55,10 +55,10 @@ dependencies:
   - mistune=0.8.4
   - nbconvert=5.6.1
   - nbformat=5.0.6
-  - ncurses=6.1
+  #- ncurses=6.1
   - notebook=6.0.3
-  - nspr=4.20
-  - nss=3.47
+  #- nspr=4.20
+  #- nss=3.47
   - numpy=1.18.5
   - openssl=1.1.1g
   - packaging=20.4
@@ -85,7 +85,7 @@ dependencies:
   - qt=5.12.5
   - qtconsole=4.7.4
   - qtpy=1.9.0
-  - readline=8.0
+  #- readline=8.0
   - send2trash=1.5.0
   - setuptools=47.2.0
   - six=1.15.0
