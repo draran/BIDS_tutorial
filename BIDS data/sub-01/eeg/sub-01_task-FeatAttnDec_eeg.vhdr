@@ -1,0 +1,21 @@
+Brain Vision Data Exchange Header File Version 1.0
+; Data created by FieldTrip
+
+[Common Infos]
+DataFile=sub-01_task-FeatAttnDec_eeg.eeg
+MarkerFile=sub-01_task-FeatAttnDec_eeg.vmrk
+DataFormat=BINARY
+DataOrientation=MULTIPLEXED
+NumberOfChannels=6
+SamplingInterval=8.333333e+02
+
+[Binary Infos]
+BinaryFormat=IEEE_FLOAT_32
+
+[Channel Infos]
+Ch1=Iz,,1
+Ch2=Oz,,1
+Ch3=POz,,1
+Ch4=O1,,1
+Ch5=O2,,1
+Ch6=TRIG,,1

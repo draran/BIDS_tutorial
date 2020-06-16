@@ -1,0 +1,6 @@
+#  ignore all
+*
+# vresion .gitignore
+!.gitignore
+# version script
+!*ipynb
